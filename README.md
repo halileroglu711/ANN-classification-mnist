@@ -128,7 +128,7 @@ This project is licensed under MIT license <br>
 Check 🔍[License](LICENSE) for further detail.
 
 ### 📬 Contact
-- Herhangi bir hatam varsa bana bildirin🙋. Katkılarınızı bekliyorum 🙂.Bana buradan ulaşabilirsiniz:
+- Let me know if i have any mistakes🙋. I am waiting for your contributions 🙂. Here is where you can find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/halil-eroğlu-5505783a1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halileroglu711)
