@@ -123,8 +123,8 @@ ANN-classification-mnist/
 └── test.py
 ```
 
-### License
-This project is licensed under MIT license
+### ©️ License
+This project is licensed under MIT license <br>
 Check 🔍[License](LICENSE) for further detail.
 
 ### 📬 Contact
