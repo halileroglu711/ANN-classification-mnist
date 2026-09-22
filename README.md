@@ -123,8 +123,9 @@ ANN-classification-mnist/
 └── test.py
 ```
 
-### Lıcense
-
+### License
+This project is licensed under MIT license
+Check 🔍[License](LICENSE) for further detail.
 
 ### 📬 Contact
 - Herhangi bir hatam varsa bana bildirin🙋. Katkılarınızı bekliyorum 🙂.Bana buradan ulaşabilirsiniz:
