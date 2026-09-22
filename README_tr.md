@@ -124,8 +124,9 @@ ANN-classification-mnist/
 └── test.py
 ```
 
-### Lisans
-
+### ©️ Lisans
+Bu proje MIT lisansı ile lisanslıdır. <br>
+Daha fazla detay için kontrol edin: 🔍[Lisans](LICENSE)
 
 ## 📬 İletişim
 - Herhangi bir hatam varsa bana bildirin🙋. Katkılarınızı bekliyorum 🙂.Bana buradan ulaşabilirsiniz:
